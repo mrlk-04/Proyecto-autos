@@ -1,0 +1,181 @@
+.cuerpo{
+    background-color:red;
+}
+
+.titulo{
+    margin: 20px;
+    font-size: 50px;
+}
+
+.Parrafito{
+    font-size: 25px;
+    margin: 10px;
+}
+
+#ola{
+    position: relative;
+    left: 10px;
+}
+
+
+
+.buton1{
+    font-size: 40px;
+    color: black;
+
+    
+    width: 200px;
+    height: 50px;
+
+    padding: 20px;
+    background-color: greenyellow;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+
+    position: relative;
+    top: 40px;
+    left: 10px;
+
+
+}
+
+.cuerpo4{
+    background-color: blue;
+    height: 130px;
+}
+
+.cuerpo2{
+    background-color: red;
+}
+
+
+
+.Mustang{
+    font-size: 30px;
+    background-color: greenyellow;
+    width: 1300px;
+    height: 100px;
+    display: flex;
+    border: 10px solid black;
+    
+}
+
+.mustangcito{
+    position: relative;
+    top: -14px;
+    left: 30px;
+}
+
+
+
+.Descripcion{
+    font-size: 30px;
+}
+
+.textbeneficios{
+    font-size: 30px;
+}
+
+.beneficios{
+    font-size: 30px;
+}
+
+
+.masinfo{
+    font-size: 40px;
+    color: black;
+    background-color: rgb(92, 247, 21);
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.cuerpo3 {
+    background-color: rgb(0, 0, 255);
+    height: 70px;
+    display: flex;
+    border: 15px ridge black;
+}
+
+.fototas{
+    border:15px ridge white ;
+}
+
+.cmr{
+    position: relative;
+    left: 600px;
+    font-size: 30px;
+}
+
+#partefinal{
+
+    position: relative;
+    left: 20px;
+    font-size: 25px;
+}
+
+.parteboton{
+    padding: 0px;
+    margin: 0px;
+    border: 15px double greenyellow;
+}
+
+
+.NOT{
+    border:10px ridge yellow;
+}
+
+.textote{
+    margin: 10px;
+    width: 1800px;
+    height: 30px;
+    font-size: 40px;
+
+    position: relative;
+    top: 5px;
+    left: 5px;
+
+}
+
+.botonenviar{
+    margin: 10px;
+    padding: 10px;
+    background-color: #0fff07;
+    color: black;
+    font-size: 15px;
+}
+
+.nombre{
+    margin: 10px;
+    font-size: 30px;
+    padding: 0px;
+}
+
+.Nombre{
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 0px;
+}
+
+.comentario{
+    margin: 10px;
+    font-size: 30px;
+    padding: 0px; 
+}
+
+.Comentario{
+    margin: 10px;
+    width: 900px;
+    height: 40px;
+}
+
+.partefinal{
+    height: 200px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
